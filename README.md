@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-aguiar-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="paulo-aguiar-cmd" /> </p>
 
-- 🔭 I’m currently working on **AISA (Artificial Intelligence Sign Language App)**
+- 🔭 I’m currently working on **TO BE ANNOUNCED**
 
-- 🌱 I’m currently learning **Mobile Development - Flutter and Dart**
+- 🌱 I’m currently learning **Java and the Spring Framework**
 
 - 📫 How to reach me **profissional.pauloaguiar@gmail.com**
 
